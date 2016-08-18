@@ -10,3 +10,4 @@ Things I Like
 ### August 18, 2016
 - [buunguyen/octotree: Code tree for GitHub and GitLab](https://github.com/buunguyen/octotree) 
 - [jasonlong/isometric-contributions: Render an isometric pixel art version of your contribution graph in Chrome and Safari.](https://github.com/jasonlong/isometric-contributions) 
+- [Securing React Redux Apps With JWT Tokens — Medium](https://medium.com/@rajaraodv/securing-react-redux-apps-with-jwt-tokens-fcfe81356ea0#.c0ausyxc9) 

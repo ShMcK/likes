@@ -13,3 +13,6 @@ Things I Like
 - [Securing React Redux Apps With JWT Tokens — Medium](https://medium.com/@rajaraodv/securing-react-redux-apps-with-jwt-tokens-fcfe81356ea0#.c0ausyxc9) 
 - [nolanlawson/slow-deps: 🐌 Measure which dependencies in a project are slowest to npm install](https://github.com/nolanlawson/slow-deps) 
 - [GraphQL Concepts Visualized — Building Apollo — Medium](https://medium.com/apollo-stack/the-concepts-of-graphql-bc68bd819be3#.phloml2ui) 
+
+### August 19, 2016
+- [Writing a JavaScript Framework - Sandboxed code evaluation | @RisingStack](https://blog.risingstack.com/writing-a-javascript-framework-sandboxed-code-evaluation/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 

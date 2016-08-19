@@ -12,3 +12,4 @@ Things I Like
 - [jasonlong/isometric-contributions: Render an isometric pixel art version of your contribution graph in Chrome and Safari.](https://github.com/jasonlong/isometric-contributions) 
 - [Securing React Redux Apps With JWT Tokens — Medium](https://medium.com/@rajaraodv/securing-react-redux-apps-with-jwt-tokens-fcfe81356ea0#.c0ausyxc9) 
 - [nolanlawson/slow-deps: 🐌 Measure which dependencies in a project are slowest to npm install](https://github.com/nolanlawson/slow-deps) 
+- [GraphQL Concepts Visualized — Building Apollo — Medium](https://medium.com/apollo-stack/the-concepts-of-graphql-bc68bd819be3#.phloml2ui) 

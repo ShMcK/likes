@@ -16,3 +16,6 @@ Things I Like
 
 ### August 19, 2016
 - [Writing a JavaScript Framework - Sandboxed code evaluation | @RisingStack](https://blog.risingstack.com/writing-a-javascript-framework-sandboxed-code-evaluation/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue) 
+
+### August 20, 2016
+- [CodeDammit - Find code samples and snippets in one place!](http://codedammit.co/#/) 

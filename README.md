@@ -19,3 +19,6 @@ Things I Like
 
 ### August 20, 2016
 - [CodeDammit - Find code samples and snippets in one place!](http://codedammit.co/#/) 
+
+### August 22, 2016
+- [Building your first Atom plugin](https://github.com/blog/2231-building-your-first-atom-plugin) 

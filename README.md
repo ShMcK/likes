@@ -22,3 +22,6 @@ Things I Like
 
 ### August 22, 2016
 - [Building your first Atom plugin](https://github.com/blog/2231-building-your-first-atom-plugin) 
+
+### August 23, 2016
+- [I Don't Need No Stinking API - Web Scraping in 2016 and Beyond](https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/) 

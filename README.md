@@ -27,3 +27,6 @@ Things I Like
 - [I Don't Need No Stinking API - Web Scraping in 2016 and Beyond](https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/) 
 - [Elm vs PureScript -- I've typed this or something similar enough times to just stick it in a Gist : ]](https://gist.github.com/spicydonuts/0c09596c1f27d517e9fe) 
 - [timarney/react-faq: A collection of links to help answer your questions about React](https://github.com/timarney/react-faq) 
+
+### August 24, 2016
+- [Trollala - Fight Patent Trolls Together](http://trollala.com/) 

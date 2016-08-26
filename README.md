@@ -31,3 +31,6 @@ Things I Like
 ### August 24, 2016
 - [Trollala - Fight Patent Trolls Together](http://trollala.com/) 
 - [robbyrussell/oh-my-zsh: A delightful community-driven framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.](https://github.com/robbyrussell/oh-my-zsh) 
+
+### August 26, 2016
+- [Elegant Compression in Text (The LZ 77 Method) - Computerphile - YouTube](https://www.youtube.com/watch?v=goOa3DGezUA) 

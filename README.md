@@ -34,3 +34,6 @@ Things I Like
 
 ### August 26, 2016
 - [Elegant Compression in Text (The LZ 77 Method) - Computerphile - YouTube](https://www.youtube.com/watch?v=goOa3DGezUA) 
+
+### August 27, 2016
+- [Around The Corner (1937) How Differential Steering Works - YouTube](https://www.youtube.com/watch?v=yYAw79386WI) 

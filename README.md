@@ -37,3 +37,4 @@ Things I Like
 
 ### August 27, 2016
 - [Around The Corner (1937) How Differential Steering Works - YouTube](https://www.youtube.com/watch?v=yYAw79386WI) 
+- [Penn & Teller Fool Us 'Derek Hughes' Close Up Card - YouTube](https://www.youtube.com/watch?v=222d-WP-HpY) 

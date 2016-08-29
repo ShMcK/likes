@@ -42,3 +42,6 @@ Things I Like
 ### August 28, 2016
 - [Github Code Search - Programmers' Goldmine](http://jakubdziworski.github.io/tools/2016/08/26/github-code-advances-search-programmers-goldmine.html) 
 - [bodil/eslint-config-cleanjs: An eslint config which reduces JS to a pure functional language](https://github.com/bodil/eslint-config-cleanjs) 
+
+### August 29, 2016
+- [45 Github Issues Dos and Don’ts – Hacker Noon](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612#.rs3npuz87) 

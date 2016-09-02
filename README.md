@@ -45,3 +45,6 @@ Things I Like
 
 ### August 29, 2016
 - [45 Github Issues Dos and Don’ts – Hacker Noon](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612#.rs3npuz87) 
+
+### September 2, 2016
+- [11 Simple npm Tricks That Will Knock Your Wombat Socks Off](https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/) 

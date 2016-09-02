@@ -48,3 +48,4 @@ Things I Like
 
 ### September 2, 2016
 - [11 Simple npm Tricks That Will Knock Your Wombat Socks Off](https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/) 
+- [pauldijou/redux-act: An opinionated lib to create actions and reducers for Redux](https://github.com/pauldijou/redux-act) 

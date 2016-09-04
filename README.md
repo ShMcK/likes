@@ -49,3 +49,6 @@ Things I Like
 ### September 2, 2016
 - [11 Simple npm Tricks That Will Knock Your Wombat Socks Off](https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/) 
 - [pauldijou/redux-act: An opinionated lib to create actions and reducers for Redux](https://github.com/pauldijou/redux-act) 
+
+### September 4, 2016
+- [How Elixir helped us to scale our Video User Profile Service for the Olympics – Software Sandwich – Medium](https://medium.com/software-sandwich/how-elixir-helped-us-to-scale-our-video-user-profile-service-for-the-olympics-dd7fbba1ad4e#.kdjbrm4dh) 

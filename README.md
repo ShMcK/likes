@@ -52,3 +52,6 @@ Things I Like
 
 ### September 4, 2016
 - [How Elixir helped us to scale our Video User Profile Service for the Olympics – Software Sandwich – Medium](https://medium.com/software-sandwich/how-elixir-helped-us-to-scale-our-video-user-profile-service-for-the-olympics-dd7fbba1ad4e#.kdjbrm4dh) 
+
+### September 6, 2016
+- [The Elegance Of React – JavaScript Inside – Medium](https://medium.com/javascript-inside/the-elegance-of-react-ebc21a2dcd19#.s5os3lhp1) 

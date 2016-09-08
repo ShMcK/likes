@@ -58,3 +58,4 @@ Things I Like
 
 ### September 8, 2016
 - [tristancalderbank/excel-messenger: A silly local group messaging app where the server and all clients are excel sheets.](https://github.com/tristancalderbank/excel-messenger) 
+- [Fire Pong (Rule Zero) - Computerphile - YouTube](https://www.youtube.com/watch?v=T6EBe_5LxO8) 

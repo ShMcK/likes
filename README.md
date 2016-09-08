@@ -55,3 +55,6 @@ Things I Like
 
 ### September 6, 2016
 - [The Elegance Of React – JavaScript Inside – Medium](https://medium.com/javascript-inside/the-elegance-of-react-ebc21a2dcd19#.s5os3lhp1) 
+
+### September 8, 2016
+- [tristancalderbank/excel-messenger: A silly local group messaging app where the server and all clients are excel sheets.](https://github.com/tristancalderbank/excel-messenger) 

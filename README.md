@@ -62,3 +62,6 @@ Things I Like
 
 ### September 10, 2016
 - [electron/using-selenium-and-webdriver.md at master · electron/electron](https://github.com/electron/electron/blob/master/docs/tutorial/using-selenium-and-webdriver.md) 
+
+### September 15, 2016
+- [Top 9 qualities of clean code](https://blog.goyello.com/2013/01/21/top-9-principles-clean-code/) 

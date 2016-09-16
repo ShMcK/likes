@@ -65,3 +65,6 @@ Things I Like
 
 ### September 15, 2016
 - [Top 9 qualities of clean code](https://blog.goyello.com/2013/01/21/top-9-principles-clean-code/) 
+
+### September 16, 2016
+- [joshbuchea/HEAD: A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD) 

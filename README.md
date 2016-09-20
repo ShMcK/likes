@@ -68,3 +68,6 @@ Things I Like
 
 ### September 16, 2016
 - [joshbuchea/HEAD: A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD) 
+
+### September 20, 2016
+- [André Staltz - Is your JavaScript function actually pure?](http://staltz.com/is-your-javascript-function-actually-pure.html) 

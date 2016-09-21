@@ -71,3 +71,4 @@ Things I Like
 
 ### September 20, 2016
 - [André Staltz - Is your JavaScript function actually pure?](http://staltz.com/is-your-javascript-function-actually-pure.html) 
+- [Home - Alusus Programming Language](http://alusus.net/home) 

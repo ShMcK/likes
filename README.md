@@ -72,3 +72,6 @@ Things I Like
 ### September 20, 2016
 - [André Staltz - Is your JavaScript function actually pure?](http://staltz.com/is-your-javascript-function-actually-pure.html) 
 - [Home - Alusus Programming Language](http://alusus.net/home) 
+
+### September 21, 2016
+- [Stop using JWT for sessions, part 2: Why your solution doesn't work - joepie91's Ramblings](http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/) 

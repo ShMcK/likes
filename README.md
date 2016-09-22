@@ -75,3 +75,6 @@ Things I Like
 
 ### September 21, 2016
 - [Stop using JWT for sessions, part 2: Why your solution doesn't work - joepie91's Ramblings](http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/) 
+
+### September 22, 2016
+- [A new approach to managing Redux actions – Medium](https://medium.com/@nate_wang/a-new-approach-for-managing-redux-actions-91c26ce8b5da#.puzak4uh2) 

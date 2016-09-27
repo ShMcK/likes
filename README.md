@@ -81,3 +81,6 @@ Things I Like
 - [You Might Not Need Redux – Medium](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.ww9lbfq5o) 
 - [Redux Patterns and Anti-Patterns](https://tech.affirm.com/redux-patterns-and-anti-patterns-7d80ef3d53bc#.s4jmrf4u2) 
 - [Redux or MobX: An attempt to dissolve the Confusion - RWieruch](http://www.robinwieruch.de/redux-mobx-confusion/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_44) 
+
+### September 27, 2016
+- [Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.](https://github.com/Microsoft/vscode-tips-and-tricks) 

@@ -84,3 +84,6 @@ Things I Like
 
 ### September 27, 2016
 - [Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.](https://github.com/Microsoft/vscode-tips-and-tricks) 
+
+### October 3, 2016
+- [Issue Mover for GitHub](https://github-issue-mover.appspot.com/) 

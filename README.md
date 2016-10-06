@@ -91,3 +91,6 @@ Things I Like
 ### October 5, 2016
 - [The Marvellously Mysterious JavaScript Maybe Monad](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/) 
 - [The Marvellously Mysterious JavaScript Maybe Monad](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/) 
+
+### October 6, 2016
+- [d6u/react-container-query: Modular responsive component](https://github.com/d6u/react-container-query) 

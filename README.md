@@ -87,3 +87,6 @@ Things I Like
 
 ### October 3, 2016
 - [Issue Mover for GitHub](https://github-issue-mover.appspot.com/) 
+
+### October 5, 2016
+- [The Marvellously Mysterious JavaScript Maybe Monad](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/) 

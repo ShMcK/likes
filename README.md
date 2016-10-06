@@ -94,3 +94,4 @@ Things I Like
 
 ### October 6, 2016
 - [d6u/react-container-query: Modular responsive component](https://github.com/d6u/react-container-query) 
+- [Why The Hipsters Recompose Everything – JavaScript Inside – Medium](https://medium.com/javascript-inside/why-the-hipsters-recompose-everything-23ac08748198#.3s3ahiv1d) 

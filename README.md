@@ -96,3 +96,6 @@ Things I Like
 - [d6u/react-container-query: Modular responsive component](https://github.com/d6u/react-container-query) 
 - [Why The Hipsters Recompose Everything – JavaScript Inside – Medium](https://medium.com/javascript-inside/why-the-hipsters-recompose-everything-23ac08748198#.3s3ahiv1d) 
 - [kdeldycke/awesome-falsehood: Curated list of falsehoods programmers believe in.](https://github.com/kdeldycke/awesome-falsehood) 
+
+### October 11, 2016
+- [Javascript Functor, Applicative, Monads in pictures – Medium](https://medium.com/@tzehsiang/javascript-functor-applicative-monads-in-pictures-b567c6415221#.yvgq7z27p) 

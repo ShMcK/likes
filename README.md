@@ -102,3 +102,4 @@ Things I Like
 
 ### October 13, 2016
 - [Avoiding Accidental Complexity When Structuring Your App State](https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a?imm_mid=0e95eb&cmp=em-web-na-na-newsltr_20161012#.pgwy9rgls) 
+- [On Writing Product Specs](https://goberoi.com/on-writing-product-specs-5ca697b992fd#.bsvkhcx25) 

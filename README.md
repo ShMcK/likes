@@ -99,3 +99,6 @@ Things I Like
 
 ### October 11, 2016
 - [Javascript Functor, Applicative, Monads in pictures – Medium](https://medium.com/@tzehsiang/javascript-functor-applicative-monads-in-pictures-b567c6415221#.yvgq7z27p) 
+
+### October 13, 2016
+- [Avoiding Accidental Complexity When Structuring Your App State](https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a?imm_mid=0e95eb&cmp=em-web-na-na-newsltr_20161012#.pgwy9rgls) 

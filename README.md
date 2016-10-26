@@ -109,3 +109,6 @@ Things I Like
 
 ### October 17, 2016
 - [Object Oriented Programming is an expensive disaster which must end | Smash Company](http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end?utm_content=buffer1a700&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
+
+### October 25, 2016
+- [LightNote](http://www.lightnote.co/) 

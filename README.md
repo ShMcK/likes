@@ -112,3 +112,6 @@ Things I Like
 
 ### October 25, 2016
 - [LightNote](http://www.lightnote.co/) 
+
+### October 27, 2016
+- [LightNote](http://www.lightnote.co/) 

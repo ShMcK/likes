@@ -115,3 +115,6 @@ Things I Like
 
 ### October 27, 2016
 - [LightNote](http://www.lightnote.co/) 
+
+### November 10, 2016
+- [Typed Redux](https://blog.callstack.io/typed-redux-2aa8bff926ff#.wvvxnkx9b) 

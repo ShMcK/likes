@@ -121,3 +121,6 @@ Things I Like
 
 ### November 24, 2016
 - [CSS Reference - A free visual guide to the most popular CSS properties.](http://cssreference.io/#hn) 
+
+### December 4, 2016
+- [markerikson/react-redux-links: Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links) 

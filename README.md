@@ -124,3 +124,6 @@ Things I Like
 
 ### December 4, 2016
 - [markerikson/react-redux-links: Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links) 
+
+### December 6, 2016
+- [FormidableLabs/victory: A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory) 

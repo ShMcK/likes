@@ -127,3 +127,6 @@ Things I Like
 
 ### December 6, 2016
 - [FormidableLabs/victory: A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory) 
+
+### December 8, 2016
+- [Talks that changed the way I think about programming – Oliver Powell](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/) 

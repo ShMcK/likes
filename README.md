@@ -130,3 +130,6 @@ Things I Like
 
 ### December 8, 2016
 - [Talks that changed the way I think about programming – Oliver Powell](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/) 
+
+### December 9, 2016
+- [Draft-js pieces – cannibal coder](https://cannibalcoder.com/2016/12/02/draft-js-pieces/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_54) 

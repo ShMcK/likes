@@ -133,3 +133,6 @@ Things I Like
 
 ### December 9, 2016
 - [Draft-js pieces – cannibal coder](https://cannibalcoder.com/2016/12/02/draft-js-pieces/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_54) 
+
+### January 8, 2017
+- [lelandrichardson/redux-injectable-store: Redux store with injectable reducers for use with bundle splitting, large apps, and SPAs.](https://github.com/lelandrichardson/redux-injectable-store) 

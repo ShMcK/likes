@@ -136,3 +136,6 @@ Things I Like
 
 ### January 8, 2017
 - [lelandrichardson/redux-injectable-store: Redux store with injectable reducers for use with bundle splitting, large apps, and SPAs.](https://github.com/lelandrichardson/redux-injectable-store) 
+
+### January 20, 2017
+- [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english) 

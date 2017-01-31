@@ -139,3 +139,6 @@ Things I Like
 
 ### January 20, 2017
 - [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english) 
+
+### January 30, 2017
+- [Guided meditation for beginners (for free) from QuietKit](http://quietkit.com/) 

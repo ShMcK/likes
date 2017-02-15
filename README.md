@@ -142,3 +142,6 @@ Things I Like
 
 ### January 30, 2017
 - [Guided meditation for beginners (for free) from QuietKit](http://quietkit.com/) 
+
+### February 15, 2017
+- [Algorithms | Computer science | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/) 
